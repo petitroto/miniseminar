@@ -16,7 +16,7 @@ export const router = express.Router();
 const confluency = new Confluency({host, context, username, password, authType});
 
 const themes = [
-  'beige', 'black', 'blood', 'league', 'moon', 'night', 'serif', 'simple', 'sky', 'solarized', 'white'
+  'beige', 'black', 'blood', 'league', 'moon', 'night', 'serif', 'simple', 'sky', 'solarized', 'white', 'rdk'
 ];
 const transitions = [
   'none', 'fade', 'slide', 'convex', 'concave', 'zoom'
