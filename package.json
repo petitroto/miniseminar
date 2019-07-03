@@ -20,7 +20,7 @@
     "lodash": ">=4.17.11",
     "morgan": "^1.9.0",
     "pug": "^2.0.3",
-    "reveal.js": "https://github.com/petitroto/reveal.js/tree/add-rdk-theme",
+    "reveal.js": "https://github.com/petitroto/reveal.js.git#add-rdk-theme",
     "superagent": "^5.0.2"
   },
   "devDependencies": {
